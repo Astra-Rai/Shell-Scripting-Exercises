@@ -10,7 +10,7 @@
 #declaring variables
 #no white space on sides of equal sign
 
-MYNAME="Astra Rai"
+MYNAME="Astra Rai Daniels"
 
 #print variable, variable name enclosed in curly braces with $ dollar sign in front
 
