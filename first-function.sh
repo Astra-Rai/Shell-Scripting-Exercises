@@ -7,7 +7,6 @@
 #name function getDate
 #getDate() function will display the current time and date when called. 
 
-
 getDate(){
     #date is a built
     
@@ -15,6 +14,7 @@ getDate(){
     
     return
 }
+
 
 #call function getDate()
 
