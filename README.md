@@ -10,3 +10,8 @@ Shell Scripting Tutorial by Derek Banas | YouTube Tutorial
 - Part 7:  Functions: Global and Local Explained
 - Part 8:  Function getSum()
 - Part 10: Read command read -p, if, elif, else and fi
+- Part 11: if, fi, else, >=
+- Part 12: Variables
+- Part 13: Compare string values, -z
+- Part 14: Comparison operators, ==, !=
+
