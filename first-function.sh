@@ -4,7 +4,7 @@
 #Introduction to functions
 #15:15-16:00/59:11
 
-#name function getDat3
+#name function getDate
 #getDate() function will display the current time and date when called. 
 
 
@@ -16,7 +16,7 @@ getDate(){
     return
 }
 
-#call function getDate
+#call function getDate()
 
 getDate
 
