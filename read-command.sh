@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #YouTube Tutorial | Derek Banas
-#Introduction to functions
+#Command read -p
 #19:19-19:51/59:11
 
 
