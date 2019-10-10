@@ -14,4 +14,7 @@ Shell Scripting Tutorial by Derek Banas | YouTube Tutorial
 - Part 12: Variables
 - Part 13: Compare string values, -z
 - Part 14: Comparison operators, ==, !=
+- Part 15: Check if file exists in a directory
+- Part 16: User input validation, Regex, if, read -p
+- Part 17: Enter password
 
