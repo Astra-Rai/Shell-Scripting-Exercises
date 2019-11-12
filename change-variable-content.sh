@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #YouTube Tutorial | Derek Banas
-#parameter expansions add character to end of string
+#reassign variable value 
 #38:11-39:00/59:11
 
 name ="Star"
