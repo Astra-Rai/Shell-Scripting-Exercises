@@ -13,4 +13,5 @@ echo $num
 num=$((num + 1))
 
 done
+
 #note...this code seemed to go on forever. an infinite loop?
